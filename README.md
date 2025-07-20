@@ -25,6 +25,7 @@ Python
 Pandas, NumPy – for data manipulation
 Matplotlib, Seaborn – for visualization
 Scikit-learn – for modeling and evaluation
+
 **🎯 Goals**
 Understand the basics of machine learning
 Learn how to clean and prepare a dataset
