@@ -1,7 +1,7 @@
-**📊 Student Placement Prediction - Beginner ML Project**
+** Student Placement Prediction - Beginner ML Project**
 This is a beginner-friendly machine learning project that analyzes and models a dataset related to student placements. The objective is to explore how factors like CGPA and IQ score influence placement outcomes and to build a predictive model using logistic regression.
 
-**🧠 What This Project Covers**
+** What This Project Covers**
 Exploratory Data Analysis (EDA):
 Understand the distribution and relationship between CGPA, IQ, and placement
 Visualize trends and correlations using plots
@@ -14,19 +14,19 @@ Model Building (Logistic Regression):
 Built and trained a logistic regression model using scikit-learn
 Used CGPA and IQ score as predictors to estimate placement status
 
-**📁 Dataset Summary**
+** Dataset Summary**
 The dataset placement.csv contains:
 cgpa: Student’s academic performance
 iq: Student’s IQ score
 placement: Binary value indicating placement status (1 = Placed, 0 = Not Placed)
 
-**🛠️ Tools & Libraries Used**
+** Tools & Libraries Used**
 Python
 Pandas, NumPy – for data manipulation
 Matplotlib, Seaborn – for visualization
 Scikit-learn – for modeling and evaluation
 
-**🎯 Goals**
+** Goals**
 Understand the basics of machine learning
 Learn how to clean and prepare a dataset
 Train and evaluate a simple classification model
