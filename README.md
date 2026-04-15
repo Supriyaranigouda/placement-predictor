@@ -1,3 +1,9 @@
+# Student Placement Prediction
+
+![Placement Prediction](https://via.placeholder.com/800x400.png?text=Placement+Prediction+ML)
+
+This is a beginner-friendly machine learning project...
+ 
  Student Placement Prediction - Beginner ML Project
 This is a beginner-friendly machine learning project that analyzes and models a dataset related to student placements. The objective is to explore how factors like CGPA and IQ score influence placement outcomes and to build a predictive model using logistic regression.
 
